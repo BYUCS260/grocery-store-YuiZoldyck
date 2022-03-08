@@ -8,6 +8,7 @@
     </div>
   </div>
   <ProductList :products="products" />
+  <div><a href="https://github.com/BYUCS260/grocery-store-YuiZoldyck">Footer link</a></div>
 </div>
 </template>
 
